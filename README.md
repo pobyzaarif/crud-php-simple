@@ -7,7 +7,7 @@ Blog Article: [Very simple add, edit, delete, view in PHP & MySQL](http://blog.c
 
 SQL script to create database and tables is present in **database.sql** file.
 
-Notes
+Note
 ========
 
 I used this simple php code for simulate [php-mysql-project-docker](https://github.com/pobyzaarif/php-mysql-project-docker)
